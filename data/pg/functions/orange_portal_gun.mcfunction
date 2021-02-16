@@ -1,0 +1,1 @@
+give @p bow{display:{Name:'{"color":"gold","text":"Orange Portal Gun"}'},Enchantments:[{id:infinity,lvl:1}],Unbreakable:1}

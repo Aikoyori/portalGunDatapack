@@ -1,0 +1,3 @@
+give @s phantom_spawn_egg{display:{Name:'{"color":"white","text":"Spawn Fizzler"}'},EntityTag:{id:"armor_stand",Marker:1,Invisible:1,Invulnerable:1,NoGravity:1,CustomName:'{"text":"Da Fizzler"}',Tags:["fizzler"]}}
+give @s phantom_spawn_egg{display:{Name:'{"color":"white","text":"Spawn Small Fizzler"}'},EntityTag:{id:"armor_stand",Marker:1,Invisible:1,Invulnerable:1,NoGravity:1,CustomName:'{"text":"Da Smol Fizzler"}',Tags:["fizzler"]}}
+give @s spider_spawn_egg{display:{Name:'{"color":"white","text":"Remove Fizzler"}'},EntityTag:{id:"armor_stand",Marker:1,Invisible:1,Invulnerable:1,NoGravity:1,CustomName:'{"text":"Fizzler Yeeter"}'}}

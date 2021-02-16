@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{tag:{display:{Name: '{"text":"Authority Card"}'}}}},distance=..0.5] at @s run function pg:actually_delete_the_card

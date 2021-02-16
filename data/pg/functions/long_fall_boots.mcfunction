@@ -1,0 +1,1 @@
+replaceitem entity @p armor.feet iron_boots{display:{Name:'{"color":"white","text":"Long Fall Boots"}'},Enchantments:[{id:feather_falling,lvl:32767},{id:binding_curse,lvl:1}],Unbreakable:1}
